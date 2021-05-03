@@ -1,0 +1,50 @@
+\begin{thebibliography}{7}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Androvandi et~al.(2011)Androvandi, Davaille, Limare, Foucquier, and
+  Marais}]{androvandi-etal-2011}
+Androvandi, S., Davaille, A., Limare, A., Foucquier, A., Marais, C., 2011. At
+  east three scales of convection in a mantle with strongly temperature
+  dependent viscosity. Physics of the Eath and Planetary Interiors 188,
+  132--141, doi: 10.1016/j.pepi.2011.07.004.
+
+\bibitem[{Civiero et~al.(2016)Civiero, Goes, Hammond, Fishwick, Ahmed, Ayele,
+  Doubre, Goitom, Keir, Kendall, Leroy, Ogubazghi, R{\"u}mpker, and
+  Stuart}]{civiero-etal-2016}
+Civiero, C., Goes, S., Hammond, J. O.~S., Fishwick, S., Ahmed, A., Ayele, A.,
+  Doubre, C., Goitom, B., Keir, D., Kendall, J.~M., Leroy, S., Ogubazghi, G.,
+  R{\"u}mpker, G., Stuart, G.~W., 2016. Small-scale thermal upwellings under
+  the northern {E}ast {A}frican {R}ift from {S} travel time tomography. Journal
+  of Geophysical Research 121, 7395--7408, doi: 10.1002/2016JB013070.
+
+\bibitem[{Connolly(2005)}]{connolly-2005}
+Connolly, J. A.~D., 2005. Computation of phase equilibria by linear
+  programming: {A} tool for geodynamic modelling and its application to
+  subduction zone decarbonation. Earth and Planetary Science Letters 236,
+  524--541, doi:10.1016/j.epsl.2005.04.033.
+
+\bibitem[{Franken et~al.(2020)Franken, Armitage, Fuji, and
+  Fournier}]{franken-etal-2020}
+Franken, T., Armitage, J.~J., Fuji, N., Fournier, A., 2020. Seismic wave-based
+  constraints on geodynamical processes: an application to partial melting
+  beneath the {R\'e}union island. Geochemistry, Geophysics, GeosystemsDoi: TBA.
+
+\bibitem[{Hammond and Humphreys(2000)}]{hammond-2000}
+Hammond, W.~C., Humphreys, E.~D., 2000. Upper mantle seismic wave velocity:
+  Effects of realistic partial melt geometries. Journal of Geophysical Research
+  105, 10975--10986.
+
+\bibitem[{Maclennan et~al.(2002)Maclennan, Jull, {McKenzie}, Slater, and
+  Gr{\"o}nvold}]{maclennan-etal-2002}
+Maclennan, J., Jull, M., {McKenzie}, D., Slater, L., Gr{\"o}nvold, K., 2002.
+  The link between volcanism and deglaciation in {I}celand. Geochemistry
+  Geophysics Geosystems 3~(11, 1062), doi: 10.1029/2001GC000282.
+
+\bibitem[{White and Mc{K}enzie(1995)}]{white-1995}
+White, R.~S., Mc{K}enzie, D., 1995. Mantle plumes and flood basalts. Journal of
+  Geophysical Research 100, 17543--17585.
+
+\end{thebibliography}
