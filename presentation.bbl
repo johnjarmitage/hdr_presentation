@@ -1,4 +1,4 @@
-\begin{thebibliography}{7}
+\begin{thebibliography}{9}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
@@ -10,6 +10,13 @@ Androvandi, S., Davaille, A., Limare, A., Foucquier, A., Marais, C., 2011. At
   east three scales of convection in a mantle with strongly temperature
   dependent viscosity. Physics of the Eath and Planetary Interiors 188,
   132--141, doi: 10.1016/j.pepi.2011.07.004.
+
+\bibitem[{Civiero et~al.(2020)Civiero, Armitage, Goes, and
+  Hammmond}]{civiero-etal-2020}
+Civiero, C., Armitage, J.~J., Goes, S., Hammmond, J. O.~S., 2020. The seismic
+  signature of upper-mantle plumes: application to the northern east african
+  rift. Geochemistry Geophysics Geosystems 20, 6106--6122, doi:
+  10.1029/2019GC008636.
 
 \bibitem[{Civiero et~al.(2016)Civiero, Goes, Hammond, Fishwick, Ahmed, Ayele,
   Doubre, Goitom, Keir, Kendall, Leroy, Ogubazghi, R{\"u}mpker, and
@@ -36,6 +43,13 @@ Franken, T., Armitage, J.~J., Fuji, N., Fournier, A., 2020. Seismic wave-based
 Hammond, W.~C., Humphreys, E.~D., 2000. Upper mantle seismic wave velocity:
   Effects of realistic partial melt geometries. Journal of Geophysical Research
   105, 10975--10986.
+
+\bibitem[{Keranen et~al.(2009)Keranen, Klemperer, Julia, Lawrence, and
+  Nyblade}]{keranen-etal-2009}
+Keranen, K.~M., Klemperer, S.~L., Julia, J., Lawrence, J.~F., Nyblade, A.~A.,
+  2009. Low lower crustal velocity across {E}thiopia: Is the {M}ain {E}thiopian
+  {R}ift a narrow rift in a hot craton? Geochemistry Geophysics Geosystems
+  10~(5), doi: 10.1029/2008GC002293.
 
 \bibitem[{Maclennan et~al.(2002)Maclennan, Jull, {McKenzie}, Slater, and
   Gr{\"o}nvold}]{maclennan-etal-2002}
