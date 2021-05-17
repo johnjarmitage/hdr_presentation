@@ -1,8 +1,12 @@
-\begin{thebibliography}{9}
+\begin{thebibliography}{11}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 \expandafter\ifx\csname url\endcsname\relax
   \def\url#1{\texttt{#1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Allen and Pavelsky(2018)}]{allen-2018}
+Allen, G.~H., Pavelsky, T.~M., 2018. Global extent of rivers and streams.
+  Science 361, 585--588, doi: 10.1126/science.aat0636.
 
 \bibitem[{Androvandi et~al.(2011)Androvandi, Davaille, Limare, Foucquier, and
   Marais}]{androvandi-etal-2011}
@@ -43,6 +47,10 @@ Franken, T., Armitage, J.~J., Fuji, N., Fournier, A., 2020. Seismic wave-based
 Hammond, W.~C., Humphreys, E.~D., 2000. Upper mantle seismic wave velocity:
   Effects of realistic partial melt geometries. Journal of Geophysical Research
   105, 10975--10986.
+
+\bibitem[{Howard(1994)}]{howard-1994}
+Howard, A., 1994. A detachment-limited model of drainage basin evolution. Water
+  Resources Research 30, 2261--2285.
 
 \bibitem[{Keranen et~al.(2009)Keranen, Klemperer, Julia, Lawrence, and
   Nyblade}]{keranen-etal-2009}
